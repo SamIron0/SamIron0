@@ -23,7 +23,6 @@
    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width='50'/> 
-   <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg' width='50'/>    
 </div>
 
 <br>
