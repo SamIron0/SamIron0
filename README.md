@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Samuel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
-<h3 align="center">I'm a full stack developer with a passion for Saas applications. </h3>
+<h3 align="center">I'm a full stack developer with a passion for Energy Systems. </h3>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/samuel-ironkwe/">
