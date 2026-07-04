@@ -16,8 +16,6 @@
 </p>
 
 <div align="center">   
-   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50'/> 
-   <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width='50'/>  
    <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50'/> 
